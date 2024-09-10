@@ -12,10 +12,3 @@
 - **[Toilet Paper Availability](https://github.com/MrKrisKrisu/toilet-paper-availability)**: A creative PHP project that gained attention during the early pandemic days.
 - **[Vehicletracking-Core](https://github.com/MrKrisKrisu/vehicletracking-core)**: A game-like project for discovering public transport BSSIDs, fostering urban exploration and public transit awareness.
 
-🌍 **Connect with Me**:
-- [Personal Website](https://k118.de)
-- [Mastodon](https://chaos.social/@MrKrisKrisu)
-
-🔨 **What I'm Currently Working On**:
-- Focusing primarily on [Traewelling](https://github.com/Traewelling/traewelling), constantly innovating and improving user experience.
-- Exploring and utilizing open data from various sources to create impactful and useful tools for myself
